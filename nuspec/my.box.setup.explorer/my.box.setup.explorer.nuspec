@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>my.box.setup.explorer</id>
+    <version>1.0.0</version>
+    <authors>Florian Winkelbauer</authors>
+    <owners>Florian Winkelbauer</owners>
+    <description>Changes the configuration of the Windows explorer</description>
+    <tags>Boxstarter</tags>
+  </metadata>
+</package>
